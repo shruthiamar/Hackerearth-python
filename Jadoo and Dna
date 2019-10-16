@@ -15,7 +15,8 @@ Input: The input will always be a string of characters.
 
 Output: The output should always be a string of characters. In the case of invalid input, you should output Invalid Input as a string.
 Rules: Your code should not consist of any numerical characters (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) and the length of your code should be
-<= 103. If your code consists of numerical characters, then your score is zero irrespectuve of your code length or testcases '''           satisfied. If your code is devoid of numerical characters and is of             length > 103 then you score 50%.
+<= 103. If your code consists of numerical characters, then your score is zero irrespectuve of your code length or testcases satisfied.
+If your code is devoid of numerical characters and is of length > 103 then you score 50%.'''
 
 char = input().upper()
 ls =" "
