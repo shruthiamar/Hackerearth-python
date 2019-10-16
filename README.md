@@ -12,3 +12,8 @@ using a single number in his program and also restricts the character limit to 1
 
 3. Jadoo hates numbers, but he requires to print a special number "420" to recharge the equation of life. He asks your help to print the 
 number but Since he hates numbers, he asks you to write the program such that there would not be any number in the code.
+
+4. Raghav is currently watching Netflix. He is feeling thrilled after watching Seasons 1, 2 and 3 of 13 Reasons Why, and is desperately
+waiting for release of Season 4. But the makers of the show are in no mood to release the next season anytime soon. The makers of 13 
+Reasons Why give Raghav a challenge to solve. If he solves this challenge, then they will give exclusive copy of Season 4 to him.But 
+Raghav is feeling lazy. Can you help him solve this challenge?
